@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-inventory-counting-filament",
+  "capabilityKey": "planned:ecommerce:inventory-counting",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-inventory-counting-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/inventory-counting.md",
+  "presentationPlan": "projects/ecommerce/filament/inventory-counting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}

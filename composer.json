@@ -1,0 +1,23 @@
+{
+  "name": "liberusoftware/ecommerce-inventory-counting-filament",
+  "description": "Inventory Counting Filament presentation module skeleton",
+  "type": "liberu-module",
+  "license": "MIT",
+  "require": {
+    "php": "^8.5",
+    "filament/filament": "^5.11"
+  },
+  "autoload": {
+    "psr-4": {
+      "Liberu\\Presentation\\Capability7a4ceb6212bc\\": "src/"
+    }
+  },
+  "scripts": {
+    "check": "@php -l src/CapabilityPlugin.php"
+  },
+  "extra": {
+    "liberu": {
+      "name": "ecommerce-inventory-counting-filament"
+    }
+  }
+}
